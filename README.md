@@ -1,2 +1,3 @@
 # seven_segment_display_vhdl
 Aim of this lab is to understand how to use 7 segment display on the Basys 3 FPGA board and design a digital circuit using 7 segment display. A design that can be show 4 different digits simultaneously should be made
+Aim of this lab is to understand how to use 7 segment display on the Basys 3 FPGA board and design a digital circuit using 7 segment display. A design that can be show 4 different digits simultaneously should be made. In this lab a design that can take 16 values from 4 different switches for each 4 digits is used. The 4 digit display shows each digit simultaneously according to given 16 switch inputs (4 switch for each 4 digit).
